@@ -28,3 +28,7 @@ label{
 .col-acoes .p-button{
   margin-right: 5px;
 }
+
+a:hover, a:focus{
+  text-decoration: underline;
+}
